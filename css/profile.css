@@ -1,0 +1,11 @@
+.containerdiv {
+  border: 0;
+  float: center;
+  position: relative;
+} 
+.cornerimage {
+  border: 0;
+  position: absolute;
+  margin:150px;
+  margin: 10px 5px 0px 0px;
+ } 

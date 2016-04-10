@@ -1,0 +1,42 @@
+#search-form {
+  float: center; 
+  margin:70px 0 100px 170px;
+  width:690px;
+  overflow:hidden; 
+}
+
+#search-page-border { 
+  border:1px solid #dbdbdb;
+  border-radius:4px; padding:7px; float:left; 
+}
+
+.search-terms { 
+  font-size:26px;
+  border:none; 
+}
+
+#search-which { 
+  margin:0 10px; 
+  padding-left:8px; 
+  border-left:1px solid #dbdbdb; 
+}
+
+#search-which, select option { 
+  font-size:20px; 
+}
+
+#search-submit { 
+  padding:12px 30px;
+  margin-left:20px; 
+  font-size:20px; 
+  float:center; 
+  color:#ffffff; 
+  background:#F00; 
+  border:none; 
+  border-radius: 3px; 
+}
+
+.accessibly-hidden {
+  left: -999em;
+  position: absolute;
+}
